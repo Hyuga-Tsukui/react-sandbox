@@ -1,0 +1,1325 @@
+{
+  "recordMap": {
+    "notion_user": {
+      "ffee0111-66f1-4d31-9920-9821317c90c4": {
+        "role": "editor",
+        "value": {
+          "id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "version": 86,
+          "email": "gakikiki407@gmail.com",
+          "given_name": "日向",
+          "family_name": "津久井",
+          "profile_photo": "https://lh5.googleusercontent.com/-k7ge1zyATf0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck5NMbPrengWMTWwZeIDXdjQg_nzw/photo.jpg",
+          "onboarding_completed": true,
+          "mobile_onboarding_completed": true,
+          "clipper_onboarding_completed": true,
+          "name": "津久井日向"
+        }
+      }
+    },
+    "user_root": {
+      "ffee0111-66f1-4d31-9920-9821317c90c4": {
+        "role": "editor",
+        "value": {
+          "id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "version": 14,
+          "space_views": [
+            "cc5d6ace-024a-48ac-ac45-2e3d64a259d5"
+          ],
+          "left_spaces": [
+            "2b554a4c-7484-4b74-a921-04f86773b654",
+            "5b5be900-a4b8-4f8a-afe7-fa8aa4a5d8b5"
+          ],
+          "space_view_pointers": [
+            {
+              "id": "cc5d6ace-024a-48ac-ac45-2e3d64a259d5",
+              "table": "space_view",
+              "spaceId": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3"
+            }
+          ]
+        }
+      }
+    },
+    "user_settings": {
+      "ffee0111-66f1-4d31-9920-9821317c90c4": {
+        "role": "editor",
+        "value": {
+          "id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "version": 15,
+          "settings": {
+            "fbp": "fb.1.1638678777723.320375119",
+            "type": "personal",
+            "locale": "en-US",
+            "persona": "unfilled",
+            "click_ids": {
+              "id": "CjwKCAiA0KmPBhBqEiwAJqKK40DaXOfLrSfNZP0DL2x8nxutevHRRzGYBe0frn2Il9inlQupgSySURoCydsQAvD_BwE",
+              "type": "google"
+            },
+            "team_role": "unfilled",
+            "time_zone": "Asia/Tokyo",
+            "signup_time": 1606054061721,
+            "used_ios_app": true,
+            "preferred_locale": "en-US",
+            "used_desktop_web_app": true,
+            "seen_views_intro_modal": true,
+            "preferred_locale_origin": "autodetect",
+            "seen_comment_sidebar_v2": true,
+            "seen_persona_collection": true
+          }
+        }
+      }
+    },
+    "space_view": {
+      "cc5d6ace-024a-48ac-ac45-2e3d64a259d5": {
+        "role": "editor",
+        "value": {
+          "id": "cc5d6ace-024a-48ac-ac45-2e3d64a259d5",
+          "version": 56,
+          "space_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3",
+          "parent_id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "parent_table": "user_root",
+          "alive": true,
+          "notify_mobile": true,
+          "notify_desktop": true,
+          "notify_email": true,
+          "shared_pages": [
+            "6111c7c8-87cc-4220-81c3-ba6eb92c425d",
+            "65fa3a8d-4142-4035-b4aa-ac67ef6d9b1c"
+          ],
+          "visited_templates": [
+            "7e89f436-7aac-4f66-b0a6-6e65ec868d2a",
+            "88c9c2b0-d732-4342-8963-0580a4725571",
+            "ba43b46e-4ad3-47f7-95f0-58a3ba01476f",
+            "2dddc8c5-a711-4aa2-b5b3-ff952a49bcfa",
+            "b7572331-51ab-4ed5-a931-5a7d34b08bf0",
+            "ecd6a49a-a4f3-4ccb-a9e2-beb52349ad2c",
+            "3d6561ad-7ea5-4c0e-9b9d-3280be3ffcc7",
+            "deaf16ee-fa75-454b-a0fc-87893bb3cff6",
+            "41f0a2b5-63d2-48c4-9dba-561d4ade418c",
+            "98d6f6ab-9fcd-4021-a731-66101eacf132",
+            "4fa28a2c-36f3-4c3d-bd6c-091933f5ef68",
+            "60fef2a5-653c-4b49-aa46-442a649fc745",
+            "4e6134a4-f094-4260-b7e5-0a2c2c1122d7",
+            "d345d660-6bcd-4f8b-925e-633be61b70ca",
+            "ab02c5e7-f589-4948-b820-6a2fed357258",
+            "1afd9231-27c8-400d-8d2c-3214b04131f2"
+          ],
+          "sidebar_hidden_templates": [
+            "7e89f436-7aac-4f66-b0a6-6e65ec868d2a",
+            "88c9c2b0-d732-4342-8963-0580a4725571",
+            "ba43b46e-4ad3-47f7-95f0-58a3ba01476f",
+            "2dddc8c5-a711-4aa2-b5b3-ff952a49bcfa",
+            "b7572331-51ab-4ed5-a931-5a7d34b08bf0",
+            "ecd6a49a-a4f3-4ccb-a9e2-beb52349ad2c",
+            "4fa28a2c-36f3-4c3d-bd6c-091933f5ef68"
+          ],
+          "created_getting_started": true,
+          "created_onboarding_templates": true,
+          "private_pages": [
+            "cf296398-666a-4918-b3f5-182eb85c3531",
+            "b8233b44-c076-4c67-84eb-9f2f87c092ed",
+            "a45c3f9c-0923-4b76-b3a4-0acc8241a440",
+            "91c9cfc1-6954-4775-a280-501bff3c5e23",
+            "eda44814-7921-4c53-a346-a23891821c21",
+            "ab3cb975-42a9-46e9-bd15-98d4cbb9be59",
+            "69b7f8c8-78d9-48dd-82fd-89ca2dfc921d",
+            "93bae4bc-ce62-4f4f-9ce2-70f90f7eedda",
+            "35025fc1-c5a0-4e11-8caf-72e635fa2cab",
+            "5ab0c6db-c8b3-4ea3-9930-482df1bead6c",
+            "a124ec8f-5507-42d0-942e-5b6999fdf3f4",
+            "605e7980-02eb-4684-8ebf-e8edaf6de129",
+            "b5e2d3fe-55bf-483d-ae15-d2d37ee22d23",
+            "78f5f151-d001-4f8e-b824-f9bdf1b200d0",
+            "013c160d-f22b-4a69-933c-42db93450a0b",
+            "2ea5cdd6-48be-4ff9-bcc9-0c5906aaa256",
+            "925accc4-9a6e-4e54-9037-7a3a6fe701fe",
+            "87349e12-4c7c-4a16-aa87-0012d6d2b6b0"
+          ],
+          "joined": true
+        }
+      }
+    },
+    "space": {
+      "6f46b3b4-f03e-4d52-9fe2-609de757c9e3": {
+        "role": "editor",
+        "value": {
+          "id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3",
+          "version": 178,
+          "name": "日向's Notion",
+          "permissions": [
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "ffee0111-66f1-4d31-9920-9821317c90c4"
+            }
+          ],
+          "icon": "🐳",
+          "beta_enabled": false,
+          "pages": [
+            "b8233b44-c076-4c67-84eb-9f2f87c092ed",
+            "a45c3f9c-0923-4b76-b3a4-0acc8241a440",
+            "91c9cfc1-6954-4775-a280-501bff3c5e23",
+            "eda44814-7921-4c53-a346-a23891821c21",
+            "ab3cb975-42a9-46e9-bd15-98d4cbb9be59",
+            "69b7f8c8-78d9-48dd-82fd-89ca2dfc921d",
+            "93bae4bc-ce62-4f4f-9ce2-70f90f7eedda",
+            "35025fc1-c5a0-4e11-8caf-72e635fa2cab",
+            "5ab0c6db-c8b3-4ea3-9930-482df1bead6c"
+          ],
+          "created_time": 1606054069027,
+          "last_edited_time": 1644676440000,
+          "created_by_table": "notion_user",
+          "created_by_id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "plan_type": "personal",
+          "invite_link_enabled": true,
+          "subscription_tier": "personal_free"
+        }
+      }
+    },
+    "block": {
+      "b8233b44-c076-4c67-84eb-9f2f87c092ed": {
+        "role": "editor",
+        "value": {
+          "id": "b8233b44-c076-4c67-84eb-9f2f87c092ed",
+          "version": 12,
+          "type": "collection_view_page",
+          "view_ids": [
+            "10cdf6d9-c2ea-4b11-9a19-80be8dfab8cb"
+          ],
+          "collection_id": "b4c13879-649e-487e-a958-28c8e764a03e",
+          "format": {
+            "collection_pointer": {
+              "id": "b4c13879-649e-487e-a958-28c8e764a03e",
+              "table": "collection",
+              "spaceId": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3"
+            }
+          },
+          "permissions": [
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "ffee0111-66f1-4d31-9920-9821317c90c4"
+            }
+          ],
+          "created_time": 1626351934178,
+          "last_edited_time": 1626351960000,
+          "parent_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3",
+          "parent_table": "space",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "space_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3"
+        }
+      },
+      "a45c3f9c-0923-4b76-b3a4-0acc8241a440": {
+        "role": "editor",
+        "value": {
+          "id": "a45c3f9c-0923-4b76-b3a4-0acc8241a440",
+          "version": 29,
+          "type": "collection_view_page",
+          "view_ids": [
+            "fefd584c-5545-478e-b9fb-cde992a094ce"
+          ],
+          "collection_id": "f419d7a3-ec92-4e63-ad53-482c3162c19c",
+          "format": {
+            "collection_pointer": {
+              "id": "f419d7a3-ec92-4e63-ad53-482c3162c19c",
+              "table": "collection",
+              "spaceId": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3"
+            }
+          },
+          "permissions": [
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "ffee0111-66f1-4d31-9920-9821317c90c4"
+            }
+          ],
+          "created_time": 1626040288869,
+          "last_edited_time": 1642983120000,
+          "parent_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3",
+          "parent_table": "space",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "space_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3"
+        }
+      },
+      "91c9cfc1-6954-4775-a280-501bff3c5e23": {
+        "role": "editor",
+        "value": {
+          "id": "91c9cfc1-6954-4775-a280-501bff3c5e23",
+          "version": 42,
+          "type": "collection_view_page",
+          "view_ids": [
+            "89eed2c2-c749-432f-95c3-d576ef250c28"
+          ],
+          "collection_id": "fd0875b7-c50f-4660-91a0-9c103a98344f",
+          "format": {
+            "collection_pointer": {
+              "id": "fd0875b7-c50f-4660-91a0-9c103a98344f",
+              "table": "collection",
+              "spaceId": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3"
+            }
+          },
+          "permissions": [
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "ffee0111-66f1-4d31-9920-9821317c90c4"
+            }
+          ],
+          "created_time": 1625984254398,
+          "last_edited_time": 1626005040000,
+          "parent_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3",
+          "parent_table": "space",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "space_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3"
+        }
+      },
+      "eda44814-7921-4c53-a346-a23891821c21": {
+        "role": "editor",
+        "value": {
+          "id": "eda44814-7921-4c53-a346-a23891821c21",
+          "version": 62,
+          "type": "collection_view_page",
+          "view_ids": [
+            "e9ddc163-eb53-4cdb-8042-eaf69ea1faa8",
+            "ab46c88b-d2a7-4758-b1ce-b00fceba2b8a"
+          ],
+          "collection_id": "5d8c4ac0-e13c-41e6-b820-ec27fc8e42fb",
+          "format": {
+            "collection_pointer": {
+              "id": "5d8c4ac0-e13c-41e6-b820-ec27fc8e42fb",
+              "table": "collection",
+              "spaceId": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3"
+            },
+            "page_cover_position": 0.4
+          },
+          "permissions": [
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "ffee0111-66f1-4d31-9920-9821317c90c4"
+            }
+          ],
+          "created_time": 1620364278515,
+          "last_edited_time": 1650169108035,
+          "parent_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3",
+          "parent_table": "space",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "space_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3"
+        }
+      },
+      "ab3cb975-42a9-46e9-bd15-98d4cbb9be59": {
+        "role": "editor",
+        "value": {
+          "id": "ab3cb975-42a9-46e9-bd15-98d4cbb9be59",
+          "version": 1,
+          "type": "collection_view_page",
+          "view_ids": [
+            "4c75725f-ffea-43fe-bf4f-499350a0941e"
+          ],
+          "collection_id": "20fe7905-0da7-4c55-9b3a-7a653d9d09d6",
+          "format": {
+            "collection_pointer": {
+              "id": "20fe7905-0da7-4c55-9b3a-7a653d9d09d6",
+              "table": "collection",
+              "spaceId": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3"
+            }
+          },
+          "permissions": [
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "ffee0111-66f1-4d31-9920-9821317c90c4"
+            }
+          ],
+          "created_time": 1628636710454,
+          "last_edited_time": 1628636710454,
+          "parent_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3",
+          "parent_table": "space",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "space_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3"
+        }
+      },
+      "69b7f8c8-78d9-48dd-82fd-89ca2dfc921d": {
+        "role": "editor",
+        "value": {
+          "id": "69b7f8c8-78d9-48dd-82fd-89ca2dfc921d",
+          "version": 71,
+          "type": "page",
+          "properties": {
+            "title": [
+              [
+                "メモ"
+              ]
+            ]
+          },
+          "content": [
+            "dcb2fbb0-2aed-4f60-a937-3f567f39bf30",
+            "25e3c4a2-661e-4bb9-aa5d-fa4b3c3bcc27",
+            "1700921c-85f4-4871-8824-fbcab18d7359",
+            "b61eec58-854f-4f56-b59a-dc87172a9c79",
+            "f1529ab3-60ec-4466-9704-00c6092ea0bb",
+            "dc347722-7791-45a6-b7cf-b0224905eb96",
+            "3bb70e74-5a5a-4673-9f79-4e9c7abbf3e9",
+            "106d4af5-107e-4221-977e-9ca6577ba83b",
+            "87dc2226-6c02-4478-aa61-aa0912bdd7cc",
+            "5aa6d2e6-ef00-4efb-aa06-9e0e6ce9ca33",
+            "2fe9a199-fed8-45b6-94b0-39a4d794fc50",
+            "f15952c6-c5bd-4ae4-bb25-e36e200fb4fa",
+            "3bc23881-7a6c-4a95-94e5-4e6e0a98b2e3",
+            "439ca742-496a-413a-9baa-e30098079b31",
+            "2c6d1628-4a09-44a0-84ed-cefee0e1bbd3",
+            "e0f932ee-2734-4122-93b8-72f61843989f",
+            "82c8b094-8858-4d17-9285-5ce91937a482",
+            "97152dcd-bc91-41af-8e6d-4c7fba391146",
+            "b2e3ed8b-5500-4541-a148-794442fb47d1",
+            "43fdca28-a992-40f0-8e12-71017217f4c1",
+            "3dea911a-1e01-49f7-98cb-4062b31e23fa",
+            "ca6ae004-a851-4921-ae08-ff913236fd49",
+            "0c579e36-60a0-44c5-875d-86db1d07c5e7",
+            "d7caebbb-c20e-4fbd-9059-59e29ab9b789",
+            "1cc54505-56f0-47f8-83b9-da5e31e2aa70",
+            "2c0a0bc4-338a-4718-a39b-64e193845a30",
+            "8f736165-2141-47a7-bdcb-55cbc61f3c3e",
+            "afc9d6f8-9b1e-44b7-b0c3-c22701037411",
+            "9b9ec663-f4c9-400d-99da-91524f826d7d",
+            "60042884-1b0e-4b22-b971-92d86e2b2662",
+            "bf053db4-13f5-4614-b480-b5bc75c781ad"
+          ],
+          "permissions": [
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "ffee0111-66f1-4d31-9920-9821317c90c4"
+            }
+          ],
+          "created_time": 1643985900000,
+          "last_edited_time": 1653054720000,
+          "parent_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3",
+          "parent_table": "space",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "space_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3"
+        }
+      },
+      "93bae4bc-ce62-4f4f-9ce2-70f90f7eedda": {
+        "role": "editor",
+        "value": {
+          "id": "93bae4bc-ce62-4f4f-9ce2-70f90f7eedda",
+          "version": 88,
+          "type": "page",
+          "properties": {
+            "title": [
+              [
+                "EventLoop"
+              ]
+            ]
+          },
+          "content": [
+            "a212b6dc-1fd6-4fea-baf4-ae58cb1e7d2e",
+            "592a01c7-295f-4031-aad1-e4afd334aa2d",
+            "4cae54d9-2d77-4d5c-824b-0f2a22d8cf67",
+            "0ca61a8a-9d1b-4055-bde6-f977e831a13f",
+            "458d6c41-77e9-4576-bba4-81125bb16855",
+            "1b773b43-aeef-4395-a2b8-6ef51a5082a8",
+            "26e32d31-4eca-4099-8c25-363b201c1195",
+            "fa8dc908-bc45-45e2-ab21-ff66e7ec357d",
+            "2d63fd5a-115b-4c26-8897-02d12f560205",
+            "95646205-6668-4d6b-b45b-4148822d3ec7",
+            "e170cbe4-6a4f-411e-a143-f5a935f520dc",
+            "37326967-147a-4f10-a370-25808721272f",
+            "99ae0ad8-8596-477b-ba2e-baf55e6dae70",
+            "54e1a0de-6952-4c59-b077-b9f4477ac39c"
+          ],
+          "permissions": [
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "ffee0111-66f1-4d31-9920-9821317c90c4"
+            }
+          ],
+          "created_time": 1644065400000,
+          "last_edited_time": 1644066660000,
+          "parent_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3",
+          "parent_table": "space",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "space_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3"
+        }
+      },
+      "35025fc1-c5a0-4e11-8caf-72e635fa2cab": {
+        "role": "editor",
+        "value": {
+          "id": "35025fc1-c5a0-4e11-8caf-72e635fa2cab",
+          "version": 16,
+          "type": "page",
+          "properties": {
+            "title": [
+              [
+                "dotfiles"
+              ]
+            ]
+          },
+          "content": [
+            "0751c436-0a75-4ef7-b808-0e6339548efb",
+            "766c6c51-682a-4224-a277-2015513c3031"
+          ],
+          "permissions": [
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "ffee0111-66f1-4d31-9920-9821317c90c4"
+            }
+          ],
+          "created_time": 1644147060000,
+          "last_edited_time": 1644147060000,
+          "parent_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3",
+          "parent_table": "space",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "space_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3"
+        }
+      },
+      "5ab0c6db-c8b3-4ea3-9930-482df1bead6c": {
+        "role": "editor",
+        "value": {
+          "id": "5ab0c6db-c8b3-4ea3-9930-482df1bead6c",
+          "version": 215,
+          "type": "page",
+          "properties": {
+            "title": [
+              [
+                "JavaScript Ninjaの極意"
+              ]
+            ]
+          },
+          "content": [
+            "db4f8e33-a52b-4cbf-9248-d9d2f133747a",
+            "9e48188f-d7bb-4721-b429-7f3122e69f2e",
+            "c4ae2a50-e141-4b7e-9b56-13c30f92debb",
+            "43281ceb-c2e3-4e65-a9c2-cdbc7e4add41",
+            "f808c294-8331-4b68-8adf-3e34e68fc447",
+            "e3f31179-286f-4670-8157-bff2ab242902",
+            "378d7dde-5eb9-48bb-817a-6b48f54edba2",
+            "a870e318-7e3a-4b78-a3c8-2670121ebd4d",
+            "2fa17506-46fe-4ebd-8d17-dd1f3a21f2fe",
+            "677a5506-6f31-4e51-a8bf-7ed8244e77bb",
+            "211bcc72-4120-4fc5-8981-772910bd0ed3",
+            "39b449b1-e41f-42a5-a384-e4031bd276f7",
+            "f80f047d-601f-4ab5-842f-5974b90b3224",
+            "4f1f0b3b-031a-4839-afe0-b2cfa74a89e3",
+            "a7a85eb0-c726-4f13-94b8-3ff142d837a3",
+            "67116ce2-0af2-4da2-b9b9-31a2c6f1216b",
+            "7544651d-1da6-43d2-a6a2-7559c52f5b39",
+            "cf7f9b71-b9a0-41dd-b965-1e9ca5234a5e",
+            "48d59ce7-db04-422a-bb19-5dce7b04e5a6",
+            "9e9b14ff-4eb1-4e5d-9835-71c517e8adc1",
+            "255472fd-4e97-4c3d-92d7-be523b5393ab",
+            "2105f80d-185e-41b3-8339-7534f811cc20",
+            "45a50d66-eac2-450e-85c4-808a5545f7c9",
+            "62165bbd-0385-47b8-a390-f90da3d91f7a",
+            "d398449a-a523-45ce-82c7-49c128e3700e",
+            "c6bf7710-f8ee-49de-be5b-56bc453cb42e",
+            "cd6d8603-eec4-4e83-a272-2cc061ffe758",
+            "567fbf5a-1c79-450f-bf88-1316a74633d3",
+            "c9c1fde4-d26e-4ef7-81e3-3fbbb7d9e03d",
+            "cc085c4d-a88b-405f-b991-8a6829acdde6",
+            "af18eaf4-2e12-4bfc-9f56-fda127dc17ba",
+            "4b3fa32d-2595-497d-bad0-0617c81b58aa",
+            "5ffda42a-b4c7-4248-8586-cf2011cf2c8b",
+            "6353ed4d-b59d-4253-be27-f055edb228f3",
+            "e7853074-5752-42ac-8484-55454da4c9da",
+            "f58c75c1-ffc8-461b-8ea2-f439eed61925",
+            "d0245691-efa4-49ae-956c-83336791bbee",
+            "4aa92b23-4c77-4806-9f3a-e75f2a2d105b",
+            "149327b3-58b8-4a40-8ff7-25b116f256ac",
+            "7f622f70-bab7-4400-9d0a-058a0983a353",
+            "efd5269a-55ad-4676-860d-2dbf2678c79f",
+            "f399e0e2-41b6-432f-a13e-9da2d6b32c6e",
+            "7bfd4618-d0f9-44cd-b372-aec7112cc2bd",
+            "e9cbdad2-a388-46d2-bd71-eb507382e3c0",
+            "a580d913-0bd2-4214-ad6b-9d093b930491",
+            "ecfe4557-503f-4813-8817-dd1108a36ef6",
+            "043360dd-b7f9-4dca-886d-c73cb5604e64",
+            "5e0a8b92-0620-4c97-8e67-2ff7b04b4cbf",
+            "779430e4-7e4c-4d85-bf16-ed3d218d609f",
+            "1fca5291-9e82-4e72-81c1-508d325b88c6",
+            "1b9fba94-8d92-4a46-ab42-37f2700127ec",
+            "0856fd72-bf4f-43d2-a9dd-c4899c696cc8",
+            "efb2c3b1-314e-458c-9e12-822ca8ddb757",
+            "e1fe9ab4-27ad-4baa-9a50-162c0f5855be",
+            "5e28dd16-f1df-4620-addb-31eeb0c7b64a"
+          ],
+          "permissions": [
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "ffee0111-66f1-4d31-9920-9821317c90c4"
+            }
+          ],
+          "created_time": 1644674460000,
+          "last_edited_time": 1644755820000,
+          "parent_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3",
+          "parent_table": "space",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "space_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3"
+        }
+      },
+      "6111c7c8-87cc-4220-81c3-ba6eb92c425d": {
+        "role": "editor",
+        "value": {
+          "id": "6111c7c8-87cc-4220-81c3-ba6eb92c425d",
+          "version": 1544,
+          "type": "collection_view_page",
+          "properties": {
+            "title": [
+              [
+                "Import Jul 5, 2021"
+              ]
+            ]
+          },
+          "content": [
+            "d1136b13-dbe0-47b5-ac53-d96dfe168d7b"
+          ],
+          "view_ids": [
+            "f4034fe6-acbf-46a2-bbc0-c936c92993db",
+            "b95a43d6-daca-4eb8-a3d3-0ab67cd1217f",
+            "e20f78d2-ba40-4446-9c6d-289da141cb86",
+            "8b64d6f3-46dc-4126-ab91-de3939702271"
+          ],
+          "collection_id": "70de1cfb-ca9c-45b5-a465-36aa210ddc58",
+          "format": {
+            "collection_pointer": {
+              "id": "70de1cfb-ca9c-45b5-a465-36aa210ddc58",
+              "table": "collection",
+              "spaceId": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3"
+            }
+          },
+          "permissions": [
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "ffee0111-66f1-4d31-9920-9821317c90c4"
+            }
+          ],
+          "created_time": 1625459092994,
+          "last_edited_time": 1631085240000,
+          "parent_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3",
+          "parent_table": "space",
+          "alive": false,
+          "created_by_table": "notion_user",
+          "created_by_id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "space_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3",
+          "moved": {
+            "moved_at": {
+              "type": "datetime",
+              "time_zone": "Africa/Abidjan",
+              "start_date": "2021-08-30",
+              "start_time": "01:20"
+            },
+            "moved_by": {
+              "id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+              "table": "notion_user"
+            },
+            "moved_to": {
+              "id": "94550824-69ee-42e3-8f0e-c54c0024e351",
+              "table": "block",
+              "spaceId": "2b554a4c-7484-4b74-a921-04f86773b654"
+            }
+          }
+        }
+      },
+      "65fa3a8d-4142-4035-b4aa-ac67ef6d9b1c": {
+        "role": "editor",
+        "value": {
+          "id": "65fa3a8d-4142-4035-b4aa-ac67ef6d9b1c",
+          "version": 18,
+          "type": "page",
+          "content": [
+            "c86adc7d-757f-49f4-b57b-17454638f8c7"
+          ],
+          "permissions": [
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "ffee0111-66f1-4d31-9920-9821317c90c4"
+            }
+          ],
+          "created_time": 1625462880000,
+          "last_edited_time": 1625463060000,
+          "parent_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3",
+          "parent_table": "space",
+          "alive": false,
+          "created_by_table": "notion_user",
+          "created_by_id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+          "space_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3",
+          "moved": {
+            "moved_at": {
+              "type": "datetime",
+              "time_zone": "Africa/Abidjan",
+              "start_date": "2021-08-30",
+              "start_time": "01:20"
+            },
+            "moved_by": {
+              "id": "ffee0111-66f1-4d31-9920-9821317c90c4",
+              "table": "notion_user"
+            },
+            "moved_to": {
+              "id": "6bb5fc35-a657-4a79-9b2e-5ae93f8e01e3",
+              "table": "block",
+              "spaceId": "2b554a4c-7484-4b74-a921-04f86773b654"
+            }
+          }
+        }
+      }
+    },
+    "collection": {
+      "f419d7a3-ec92-4e63-ad53-482c3162c19c": {
+        "role": "editor",
+        "value": {
+          "id": "f419d7a3-ec92-4e63-ad53-482c3162c19c",
+          "version": 4,
+          "schema": {
+            "[VkF": {
+              "name": "Tags",
+              "type": "multi_select"
+            },
+            "k\\>K": {
+              "name": "Date",
+              "type": "date"
+            },
+            "ksvX": {
+              "name": "Created",
+              "type": "created_time"
+            },
+            "mOR=": {
+              "name": "URL",
+              "type": "url"
+            },
+            "title": {
+              "name": "Name",
+              "type": "title"
+            }
+          },
+          "parent_id": "a45c3f9c-0923-4b76-b3a4-0acc8241a440",
+          "parent_table": "block",
+          "alive": true,
+          "migrated": true,
+          "space_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3"
+        }
+      },
+      "fd0875b7-c50f-4660-91a0-9c103a98344f": {
+        "role": "editor",
+        "value": {
+          "id": "fd0875b7-c50f-4660-91a0-9c103a98344f",
+          "version": 7,
+          "name": [
+            [
+              "料理"
+            ]
+          ],
+          "schema": {
+            "L`O_": {
+              "name": "Tags",
+              "type": "multi_select"
+            },
+            "UxMh": {
+              "name": "URL",
+              "type": "url"
+            },
+            "title": {
+              "name": "Name",
+              "type": "title"
+            }
+          },
+          "icon": "🍳",
+          "parent_id": "91c9cfc1-6954-4775-a280-501bff3c5e23",
+          "parent_table": "block",
+          "alive": true,
+          "migrated": true,
+          "space_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3"
+        }
+      },
+      "5d8c4ac0-e13c-41e6-b820-ec27fc8e42fb": {
+        "role": "editor",
+        "value": {
+          "id": "5d8c4ac0-e13c-41e6-b820-ec27fc8e42fb",
+          "version": 37,
+          "name": [
+            [
+              "読書リスト"
+            ]
+          ],
+          "schema": {
+            "ZU<B": {
+              "name": "カテゴリ",
+              "type": "multi_select",
+              "options": [
+                {
+                  "id": "015c03db-83f2-4d35-80dd-3b2632b47144",
+                  "color": "default",
+                  "value": "マネジメント"
+                },
+                {
+                  "id": "2c9af0a4-a992-4277-8d06-e4bcf6939d02",
+                  "color": "purple",
+                  "value": "哲学"
+                },
+                {
+                  "id": "1201d2e5-e5a0-4845-a069-05947fd6d95b",
+                  "color": "pink",
+                  "value": "エンジニアリング"
+                }
+              ]
+            },
+            "bRPz": {
+              "name": "Status",
+              "type": "select",
+              "options": [
+                {
+                  "id": "dc403311-14db-49bb-89ca-10c48d424fd7",
+                  "color": "green",
+                  "value": "読書中"
+                },
+                {
+                  "id": "4555638f-7125-4dd8-a7bc-900ff1f6b6c9",
+                  "color": "gray",
+                  "value": "未読"
+                },
+                {
+                  "id": "65243fe5-8168-4d0b-9f51-8cbb00ebd188",
+                  "color": "blue",
+                  "value": "読了"
+                }
+              ]
+            },
+            "mCHi": {
+              "name": "URL",
+              "type": "url"
+            },
+            "rQSb": {
+              "name": "読了日",
+              "type": "date"
+            },
+            "xU^g": {
+              "name": "Cover",
+              "type": "file"
+            },
+            "title": {
+              "name": "Name",
+              "type": "title"
+            }
+          },
+          "icon": "📚",
+          "format": {
+            "collection_cover_position": 1,
+            "collection_page_properties": [
+              {
+                "visible": true,
+                "property": "ZU<B"
+              },
+              {
+                "visible": true,
+                "property": "bRPz"
+              },
+              {
+                "visible": false,
+                "property": "xU^g"
+              },
+              {
+                "visible": false,
+                "property": "rQSb"
+              },
+              {
+                "visible": true,
+                "property": "mCHi"
+              }
+            ]
+          },
+          "parent_id": "eda44814-7921-4c53-a346-a23891821c21",
+          "parent_table": "block",
+          "alive": true,
+          "migrated": true,
+          "space_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3"
+        }
+      },
+      "20fe7905-0da7-4c55-9b3a-7a653d9d09d6": {
+        "role": "editor",
+        "value": {
+          "id": "20fe7905-0da7-4c55-9b3a-7a653d9d09d6",
+          "version": 1,
+          "name": [
+            [
+              "My links"
+            ]
+          ],
+          "schema": {
+            "_S_i": {
+              "name": "Tags",
+              "type": "multi_select"
+            },
+            "`_=_": {
+              "name": "Created",
+              "type": "created_time"
+            },
+            "mH~j": {
+              "name": "URL",
+              "type": "url"
+            },
+            "title": {
+              "name": "Name",
+              "type": "title"
+            }
+          },
+          "icon": "📚",
+          "parent_id": "ab3cb975-42a9-46e9-bd15-98d4cbb9be59",
+          "parent_table": "block",
+          "alive": true,
+          "migrated": true,
+          "space_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3"
+        }
+      },
+      "b4c13879-649e-487e-a958-28c8e764a03e": {
+        "role": "editor",
+        "value": {
+          "id": "b4c13879-649e-487e-a958-28c8e764a03e",
+          "version": 22,
+          "name": [
+            [
+              "Shelfy色々"
+            ]
+          ],
+          "schema": {
+            "Qxhz": {
+              "name": "url",
+              "type": "url"
+            },
+            "wjMv": {
+              "name": "Tags",
+              "type": "multi_select",
+              "options": [
+                {
+                  "id": "62c79ee3-83c8-4225-a3ea-19956f956364",
+                  "color": "green",
+                  "value": "仕組み化"
+                }
+              ]
+            },
+            "title": {
+              "name": "Name",
+              "type": "title"
+            }
+          },
+          "parent_id": "b8233b44-c076-4c67-84eb-9f2f87c092ed",
+          "parent_table": "block",
+          "alive": true,
+          "migrated": true,
+          "space_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3"
+        }
+      },
+      "70de1cfb-ca9c-45b5-a465-36aa210ddc58": {
+        "role": "editor",
+        "value": {
+          "id": "70de1cfb-ca9c-45b5-a465-36aa210ddc58",
+          "version": 139,
+          "name": [
+            [
+              "CCUS TODO"
+            ]
+          ],
+          "schema": {
+            ";lN?": {
+              "name": "Assign",
+              "type": "multi_select",
+              "options": [
+                {
+                  "id": "8f6d2082-b7fc-4a25-b633-7b62726c8322",
+                  "color": "pink",
+                  "value": "everyone"
+                },
+                {
+                  "id": "e5f685d5-8255-4dc1-b5ff-bb8e5d32653a",
+                  "color": "yellow",
+                  "value": "nick"
+                },
+                {
+                  "id": "c950cff0-7da7-4b86-a9ac-34b3cd8e7d3f",
+                  "color": "purple",
+                  "value": "hyuga"
+                },
+                {
+                  "id": "858a985b-c4d8-4273-bc9b-80eab5ccb9c7",
+                  "color": "orange",
+                  "value": "lennon"
+                },
+                {
+                  "id": "4a2284b8-9509-4d6b-a914-d6efc4f7367e",
+                  "color": "gray",
+                  "value": "hamabe"
+                },
+                {
+                  "id": "8086ce4b-d75c-46e0-9338-f38206dca3e0",
+                  "color": "blue",
+                  "value": "yu"
+                },
+                {
+                  "id": "301cb070-fc67-4a4b-bfab-24fe922734b0",
+                  "color": "green",
+                  "value": "darian"
+                },
+                {
+                  "id": "9a7c364b-0c4c-425e-a3cf-399cb749a646",
+                  "color": "default",
+                  "value": "nakagawa"
+                }
+              ]
+            },
+            "?M?o": {
+              "name": "ステータス",
+              "type": "select",
+              "options": [
+                {
+                  "id": "{igH",
+                  "color": "purple",
+                  "value": "不要"
+                },
+                {
+                  "id": "T?k=",
+                  "color": "purple",
+                  "value": "着手"
+                },
+                {
+                  "id": "ghcm",
+                  "color": "red",
+                  "value": "未着手"
+                },
+                {
+                  "id": "ZgNl",
+                  "color": "pink",
+                  "value": "完了"
+                },
+                {
+                  "id": "70f80376-0aed-416f-992d-660dfac272e2",
+                  "color": "gray",
+                  "value": "テスト待ち"
+                },
+                {
+                  "id": "da471856-4c98-4fb6-a62f-7bff6e17eb82",
+                  "color": "yellow",
+                  "value": "PR"
+                },
+                {
+                  "id": "b20247ab-050e-4c92-b8f6-ad4214273dd6",
+                  "color": "brown",
+                  "value": "認定試験日"
+                },
+                {
+                  "id": "216461ba-c120-4301-bb2a-6babc617b6d5",
+                  "color": "green",
+                  "value": "次やる"
+                }
+              ]
+            },
+            "@f~I": {
+              "name": "優先度",
+              "type": "select",
+              "options": [
+                {
+                  "id": "cb97aac7-d5a8-4d8f-915c-6185868fb1b9",
+                  "color": "pink",
+                  "value": "試験前リリース"
+                },
+                {
+                  "id": "rkis",
+                  "color": "orange",
+                  "value": "試験必達"
+                },
+                {
+                  "id": "|YTL",
+                  "color": "yellow",
+                  "value": "リリース必達"
+                },
+                {
+                  "id": "ePPz",
+                  "color": "yellow",
+                  "value": "改善Ph"
+                }
+              ]
+            },
+            "AB\\J": {
+              "name": "機能",
+              "type": "multi_select",
+              "options": [
+                {
+                  "id": "15279198-1691-4352-8e39-29fedda377eb",
+                  "color": "default",
+                  "value": "全般"
+                },
+                {
+                  "id": "m<Ep",
+                  "value": "事業者_支店"
+                },
+                {
+                  "id": "a02feaef-eb9f-494f-8fe1-38a30584237a",
+                  "color": "red",
+                  "value": "事業者"
+                },
+                {
+                  "id": "edcf8e2b-f802-422d-a23a-050251828e7f",
+                  "color": "pink",
+                  "value": "就業履歴"
+                },
+                {
+                  "id": "1254567b-5066-40d6-a4e5-f6e0e6595a76",
+                  "color": "brown",
+                  "value": "技能者認証"
+                },
+                {
+                  "id": "99502441-60b8-4373-b074-9d6b521f05ea",
+                  "color": "purple",
+                  "value": "技能者"
+                },
+                {
+                  "id": "49e96619-6ae7-4def-9e93-4c7ce932cc91",
+                  "color": "blue",
+                  "value": "施工体制_技能者"
+                },
+                {
+                  "id": "054792c1-9c9d-491f-a996-7211618a52fa",
+                  "color": "yellow",
+                  "value": "施工体制"
+                },
+                {
+                  "id": "4e5f9425-6bb9-4168-8737-de707926710d",
+                  "color": "gray",
+                  "value": "現場・契約"
+                },
+                {
+                  "id": "aab82e11-14d8-40c2-9e17-0d630f4e3f88",
+                  "color": "orange",
+                  "value": "GF"
+                },
+                {
+                  "id": "1a447f10-cf72-4eff-870f-984f63a15a9f",
+                  "color": "green",
+                  "value": "基盤"
+                },
+                {
+                  "id": "2f997f20-45f6-4bee-a878-6e16e2af850c",
+                  "color": "orange",
+                  "value": "🔥チェックポイント"
+                },
+                {
+                  "id": "41eb3e4d-d64a-4804-8465-2e0c8f375048",
+                  "color": "gray",
+                  "value": "マスタ"
+                }
+              ]
+            },
+            "Jbhe": {
+              "name": "ISSUE",
+              "type": "url"
+            },
+            "Td_k": {
+              "name": "アプリ",
+              "type": "select",
+              "options": [
+                {
+                  "id": "Fcy}",
+                  "color": "purple",
+                  "value": "-"
+                },
+                {
+                  "id": "`dtD",
+                  "color": "default",
+                  "value": "データモデル"
+                },
+                {
+                  "id": "nlQx",
+                  "color": "gray",
+                  "value": "CCUS連携"
+                },
+                {
+                  "id": "{rMI",
+                  "color": "brown",
+                  "value": "現場・組織"
+                },
+                {
+                  "id": "qDFm",
+                  "color": "brown",
+                  "value": "組織"
+                },
+                {
+                  "id": "UAH{",
+                  "color": "orange",
+                  "value": "組織・現場・安全"
+                },
+                {
+                  "id": "Huz?",
+                  "color": "green",
+                  "value": "組織・現場"
+                },
+                {
+                  "id": "t|sa",
+                  "color": "green",
+                  "value": "入退場"
+                }
+              ]
+            },
+            "i=ri": {
+              "name": "日数",
+              "type": "number",
+              "number_format": "number"
+            },
+            "kmYI": {
+              "name": "Date",
+              "type": "date",
+              "date_format": "YYYY/MM/DD"
+            },
+            "title": {
+              "name": "title",
+              "type": "title"
+            }
+          },
+          "format": {
+            "property_visibility": [
+              {
+                "property": ";lN?",
+                "visibility": "show"
+              },
+              {
+                "property": "kmYI",
+                "visibility": "show"
+              },
+              {
+                "property": "Td_k",
+                "visibility": "show"
+              },
+              {
+                "property": "i|ls",
+                "visibility": "show"
+              },
+              {
+                "property": "?M?o",
+                "visibility": "show"
+              },
+              {
+                "property": "@f~I",
+                "visibility": "show"
+              },
+              {
+                "property": "HCQp",
+                "visibility": "show"
+              },
+              {
+                "property": "i=ri",
+                "visibility": "show"
+              },
+              {
+                "property": "AB\\J",
+                "visibility": "show"
+              },
+              {
+                "property": "hCR\\",
+                "visibility": "show"
+              }
+            ],
+            "page_section_visibility": {
+              "comments": "section_show",
+              "backlinks": "section_collapsed"
+            },
+            "collection_page_properties": [
+              {
+                "visible": false,
+                "property": ";lN?"
+              },
+              {
+                "visible": false,
+                "property": "kmYI"
+              },
+              {
+                "visible": false,
+                "property": "Td_k"
+              },
+              {
+                "visible": false,
+                "property": "i|ls"
+              },
+              {
+                "visible": false,
+                "property": "?M?o"
+              },
+              {
+                "visible": false,
+                "property": "@f~I"
+              },
+              {
+                "visible": false,
+                "property": "HCQp"
+              },
+              {
+                "visible": false,
+                "property": "i=ri"
+              },
+              {
+                "visible": false,
+                "property": "AB\\J"
+              },
+              {
+                "visible": false,
+                "property": "hCR\\"
+              },
+              {
+                "visible": true,
+                "property": "Jbhe"
+              }
+            ]
+          },
+          "parent_id": "6111c7c8-87cc-4220-81c3-ba6eb92c425d",
+          "parent_table": "block",
+          "alive": true,
+          "migrated": true,
+          "space_id": "6f46b3b4-f03e-4d52-9fe2-609de757c9e3"
+        }
+      }
+    }
+  }
+}
